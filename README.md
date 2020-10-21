@@ -1,3 +1,3 @@
 # historia_de_amor
 
-primer commit
+Aprendiendo git a los golpes
