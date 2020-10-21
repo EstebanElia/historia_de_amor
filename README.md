@@ -1,3 +1,1 @@
-# historia_de_amor
-
-Aprendiendo git a los golpes
+# Aprendiendo git a los golpes
